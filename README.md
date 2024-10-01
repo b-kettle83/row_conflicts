@@ -1,2 +1,5 @@
 # row_conflicts
-A row of people making merge conflicts
+hello from the other side .
+hello darkness my old friend ,
+A piece of peace 
+hellloooooooo kitttttyyyyyyyy
